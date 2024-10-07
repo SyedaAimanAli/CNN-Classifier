@@ -1,0 +1,1 @@
+n this project, I utilized Convolutional Neural Networks (CNNs) alongside Matplotlib to analyze a car dataset. The model distinguishes between images of cars from different angles—whether it's the front, back, or side view—and visualizes the classification results, offering a clear comparison of each perspective.
