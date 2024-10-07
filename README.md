@@ -1,1 +1,4 @@
-In this project, I utilized Convolutional Neural Networks (CNNs) alongside Matplotlib to analyze a car dataset. The model distinguishes between images of cars from different angles—whether it's the front, back, or side view—and visualizes the classification results, offering a clear comparison of each perspective.
+In this project, I used Convolutional Neural Networks (CNNs) and Matplotlib to analyze the Stanford car dataset from Kaggle. The model differentiates between car images taken from the front, back, and side angles. Results are visualized to clearly display how well the model classifies each perspective.
+
+Here is the link for dataset
+https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
